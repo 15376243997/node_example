@@ -6,7 +6,7 @@
             "name": "Run node",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/main.js",
+            "program": "${workspaceRoot}/app.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
